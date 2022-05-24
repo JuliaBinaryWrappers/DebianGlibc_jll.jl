@@ -1,6 +1,6 @@
 name = "DebianGlibc_jll"
 uuid = "3812390e-129a-5d25-9b88-6fc12c151a30"
-version = "2.33.0+0"
+version = "2.33.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
