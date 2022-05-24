@@ -1,0 +1,9 @@
+[[DebianGlibc]]
+arch = "aarch64"
+git-tree-sha1 = "ae6e4fee1db42dc090bd57eb5fbeee8bf8fd3241"
+libc = "glibc"
+os = "linux"
+
+    [[DebianGlibc.download]]
+    sha256 = "bb43fdf49a0a125654584fe022239edffbc0f38836ba9295645eb81a77d96574"
+    url = "https://github.com/JuliaBinaryWrappers/DebianGlibc_jll.jl/releases/download/DebianGlibc-v2.33.0+0/DebianGlibc.v2.33.0.aarch64-linux-gnu.tar.gz"
