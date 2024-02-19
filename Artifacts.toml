@@ -1,9 +1,9 @@
 [[DebianGlibc]]
 arch = "aarch64"
-git-tree-sha1 = "f36c7e93d4fd3dde69759aad9004f9b9e83d3e36"
+git-tree-sha1 = "0e4f4e26f9d576fa106b7f86a4fb6dba70148723"
 libc = "glibc"
 os = "linux"
 
     [[DebianGlibc.download]]
-    sha256 = "cc97eeee3bba259a3fbb66a64bdf299f0f3d0fb3d3aa83d2372f9246ed3f5f50"
-    url = "https://github.com/JuliaBinaryWrappers/DebianGlibc_jll.jl/releases/download/DebianGlibc-v2.33.0+1/DebianGlibc.v2.33.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "4b8ce8e5a1dad1642d1bc5338464cf9c8fc82a1368624e0311a2e6e5956f11d5"
+    url = "https://github.com/JuliaBinaryWrappers/DebianGlibc_jll.jl/releases/download/DebianGlibc-v2.38.0+0/DebianGlibc.v2.38.0.aarch64-linux-gnu.tar.gz"
